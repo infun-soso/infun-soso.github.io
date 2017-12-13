@@ -1063,7 +1063,7 @@ pre .javascript .function {
   right: 30px;
   z-index: 1050;
   padding: 0 6px;
-  width: 24px;
+  width: initial;
   background: #222;
   font-size: 12px;
   opacity: 1;
@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #70376b;
+  background: #ffc10d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1961,6 +1961,9 @@ pre .javascript .function {
 .with-love {
   display: inline-block;
   margin: 0 5px;
+}
+.busuanzi-count {
+  display: inline-block;
 }
 .powered-by,
 .theme-info {
@@ -2360,13 +2363,6 @@ pre .javascript .function {
 .site-pv .busuanzi-value,
 .page-pv .busuanzi-value {
   margin: 0 5px;
-}
-.site-uv {
-  margin-right: 10px;
-}
-.site-uv::after {
-  content: "|";
-  padding-left: 10px;
 }
 .page-archive .archive-page-counter {
   position: relative;
