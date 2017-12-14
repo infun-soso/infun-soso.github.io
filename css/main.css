@@ -1095,6 +1095,9 @@ pre .javascript .function {
 .header-inner {
   position: relative;
 }
+#SOHUCS #SOHU_MAIN .module-cmt-notice {
+  display: none;
+}
 .headband {
   height: 3px;
   background: #222;
@@ -1836,7 +1839,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff4f0d;
+  background: #445453;
 }
 .links-of-blogroll {
   font-size: 13px;
