@@ -5,9 +5,9 @@
   <subtitle>no pain , no gain</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://infunsoso.top/"/>
   <updated>2017-12-21T09:11:39.706Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://infunsoso.top/</id>
   
   <author>
     <name>Infun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>谈谈Promise</title>
-    <link href="http://yoursite.com/2017/12/21/promise/"/>
-    <id>http://yoursite.com/2017/12/21/promise/</id>
+    <link href="http://infunsoso.top/2017/12/21/promise/"/>
+    <id>http://infunsoso.top/2017/12/21/promise/</id>
     <published>2017-12-21T06:21:10.000Z</published>
     <updated>2017-12-21T09:11:39.706Z</updated>
     
@@ -33,19 +33,19 @@
     
     </summary>
     
-      <category term="Js相关" scheme="http://yoursite.com/categories/Js%E7%9B%B8%E5%85%B3/"/>
+      <category term="Js相关" scheme="http://infunsoso.top/categories/Js%E7%9B%B8%E5%85%B3/"/>
     
     
-      <category term="promise" scheme="http://yoursite.com/tags/promise/"/>
+      <category term="promise" scheme="http://infunsoso.top/tags/promise/"/>
     
-      <category term="异步" scheme="http://yoursite.com/tags/%E5%BC%82%E6%AD%A5/"/>
+      <category term="异步" scheme="http://infunsoso.top/tags/%E5%BC%82%E6%AD%A5/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://yoursite.com/2017/12/12/my-first-post/"/>
-    <id>http://yoursite.com/2017/12/12/my-first-post/</id>
+    <link href="http://infunsoso.top/2017/12/12/my-first-post/"/>
+    <id>http://infunsoso.top/2017/12/12/my-first-post/</id>
     <published>2017-12-12T04:57:45.000Z</published>
     <updated>2017-12-21T07:19:06.368Z</updated>
     
@@ -58,10 +58,10 @@
     
     </summary>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="http://infunsoso.top/categories/blog/"/>
     
     
-      <category term="城市" scheme="http://yoursite.com/tags/%E5%9F%8E%E5%B8%82/"/>
+      <category term="城市" scheme="http://infunsoso.top/tags/%E5%9F%8E%E5%B8%82/"/>
     
   </entry>
   
